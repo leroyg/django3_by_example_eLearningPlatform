@@ -1,0 +1,58 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Onboarding",
+    "slug": "onboarding"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Early Season",
+    "slug": "early-season"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Mid Season",
+    "slug": "mid-season"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Championship Season",
+    "slug": "championship-season"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Injuries",
+    "slug": "injuries"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Academics",
+    "slug": "academics"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Off Season",
+    "slug": "season"
+  }
+}
+]
